@@ -1,0 +1,14 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.exe
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\refint\PrimeiraAtividade.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\26-10-2023\PrimeiraAtividade\obj\Debug\net7.0\ref\PrimeiraAtividade.dll
