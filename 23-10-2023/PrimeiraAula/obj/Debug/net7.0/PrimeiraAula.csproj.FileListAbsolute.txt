@@ -1,0 +1,14 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.exe
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\refint\PrimeiraAula.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\aulasConsole\PrimeiraAula\obj\Debug\net7.0\ref\PrimeiraAula.dll
