@@ -1,0 +1,7 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\teste.exe
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\teste.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\teste.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\teste.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\24-10-2023\teste\obj\Release\net7.0\PubTmp\Out\teste.pdb
