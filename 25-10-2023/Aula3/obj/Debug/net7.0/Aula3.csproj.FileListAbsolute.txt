@@ -1,0 +1,14 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\bin\Debug\net7.0\Aula3.exe
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\bin\Debug\net7.0\Aula3.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\bin\Debug\net7.0\Aula3.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\bin\Debug\net7.0\Aula3.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\bin\Debug\net7.0\Aula3.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\refint\Aula3.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\Aula3.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\25-10-2023\Aula3\obj\Debug\net7.0\ref\Aula3.dll
