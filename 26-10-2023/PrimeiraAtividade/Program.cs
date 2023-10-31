@@ -6,12 +6,12 @@ namespace PrimeiraAtividade
     internal class Program
     {
 
-     
+
         static void Main(string[] args)
         {
 
 
-            
+
             /*
              meta de via 105 anos
             esposa 100
@@ -25,14 +25,31 @@ namespace PrimeiraAtividade
             
             ola .. voce vai viver ate ano tal mes tal dia tal
              */
+            DateTime Date = DateTime.Now;
+            Console.WriteLine($"Bem-Vindo, {Date.ToString("dddd, dd 'de' MMMM 'de' yyyy") }");
+            int quantidadeDeVezesQueVAiRodar = 0;
+          
+            try
+            {
+                Console.WriteLine("Digite quantas vezes voce vai querer rodar o programa: ");
+                quantidadeDeVezesQueVAiRodar = int.Parse(Console.ReadLine()!);
+            }
+            catch(System.Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Environment.Exit(0);
+            }
 
+           TentarNovamente:
             Console.Write("Digite seu nome: ");
-            string nome = Console.ReadLine();
-
-            
+            string nome = Console.ReadLine()!;
+            string dataNascimento = String.Empty;
+           
             DigitaDataDeNascimentoNovamente:
-            Console.WriteLine("Digite sua data de nascimento: ");
-            string dataNascimento = Console.ReadLine();
+           
+                Console.WriteLine("Digite sua data de nascimento: ");
+                dataNascimento = Console.ReadLine()!;
+        
 
             var validaDataNascimento = VerificaSeDataEstaNoFormatoCorreto(dataNascimento);
 
@@ -45,6 +62,9 @@ namespace PrimeiraAtividade
             Console.WriteLine($"Olá {nome} voce tem {idade} Ano(s) e ainda pode viver por {resultado.tempoRestante} Ano(s) "+
                 $"Dia final: [{resultado.diaEstimado}/{resultado.mesEstimado}/{resultado.anoEstimado}]");
 
+            quantidadeDeVezesQueVAiRodar--;
+            
+            if(quantidadeDeVezesQueVAiRodar > 0) { goto TentarNovamente; }
         }
         static (int dia, int mes, int ano, bool sucesso) VerificaSeDataEstaNoFormatoCorreto(string dataNascimento)
         {
@@ -55,8 +75,6 @@ namespace PrimeiraAtividade
             {
                 return (0, 0,0, false);
             }
-         
-
 
             var dia = Convert.ToInt16(regex.Match(dataNascimento).Groups[1].Value);
             var mes = Convert.ToInt16(regex.Match(dataNascimento).Groups[2].Value);
