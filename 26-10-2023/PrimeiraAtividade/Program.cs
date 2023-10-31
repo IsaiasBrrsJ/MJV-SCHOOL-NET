@@ -5,8 +5,13 @@ namespace PrimeiraAtividade
 {
     internal class Program
     {
+
+     
         static void Main(string[] args)
         {
+
+
+            
             /*
              meta de via 105 anos
             esposa 100
@@ -20,11 +25,11 @@ namespace PrimeiraAtividade
             
             ola .. voce vai viver ate ano tal mes tal dia tal
              */
-           
+
             Console.Write("Digite seu nome: ");
             string nome = Console.ReadLine();
 
-
+            
             DigitaDataDeNascimentoNovamente:
             Console.WriteLine("Digite sua data de nascimento: ");
             string dataNascimento = Console.ReadLine();
@@ -44,12 +49,13 @@ namespace PrimeiraAtividade
         static (int dia, int mes, int ano, bool sucesso) VerificaSeDataEstaNoFormatoCorreto(string dataNascimento)
         {
             Regex regex = new Regex(@"(\d+)\/(\d+)(?=\/\d{4})\/(\d{4})$");
+            var convertidoComSucesso = DateTime.TryParse(dataNascimento, CultureInfo.GetCultureInfo("pt-BR"), out DateTime dataNasc);
 
-
-            if (!regex.Match(dataNascimento).Success)
+            if (!regex.Match(dataNascimento).Success || convertidoComSucesso is false)
             {
                 return (0, 0,0, false);
             }
+         
 
 
             var dia = Convert.ToInt16(regex.Match(dataNascimento).Groups[1].Value);
