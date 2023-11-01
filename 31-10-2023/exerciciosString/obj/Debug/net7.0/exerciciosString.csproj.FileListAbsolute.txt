@@ -1,0 +1,14 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\bin\Debug\net7.0\exerciciosString.exe
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\bin\Debug\net7.0\exerciciosString.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\bin\Debug\net7.0\exerciciosString.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\bin\Debug\net7.0\exerciciosString.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\bin\Debug\net7.0\exerciciosString.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\refint\exerciciosString.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\exerciciosString.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\31-10-2023\exerciciosString\obj\Debug\net7.0\ref\exerciciosString.dll
