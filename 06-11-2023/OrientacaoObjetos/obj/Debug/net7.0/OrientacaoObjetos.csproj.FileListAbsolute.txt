@@ -1,0 +1,14 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\bin\Debug\net7.0\OrientacaoObjetos.exe
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\bin\Debug\net7.0\OrientacaoObjetos.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\bin\Debug\net7.0\OrientacaoObjetos.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\bin\Debug\net7.0\OrientacaoObjetos.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\bin\Debug\net7.0\OrientacaoObjetos.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\refint\OrientacaoObjetos.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\OrientacaoObjetos.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\OrientacaoObjetos\obj\Debug\net7.0\ref\OrientacaoObjetos.dll

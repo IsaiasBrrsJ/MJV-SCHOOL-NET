@@ -1,0 +1,11 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\bin\Debug\net7.0\Carro.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\bin\Debug\net7.0\Carro.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\bin\Debug\net7.0\Carro.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\Carro.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\Carro.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\Carro.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\refint\Carro.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\Carro.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\MJV DOTNET\06-11-2023\Serialização\Carro\obj\Debug\net7.0\ref\Carro.dll
