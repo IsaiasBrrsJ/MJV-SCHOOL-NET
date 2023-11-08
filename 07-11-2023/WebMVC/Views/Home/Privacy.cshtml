@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+<p>lorem
+</p>
+
+<p>
+    <span id="hora"></span>
+</p>
+
+<script>
+    function atualizarHora() {
+        var elementoHora = document.getElementById('hora');
+        var dataAtual = new Date();
+        elementoHora.textContent = dataAtual.toLocaleTimeString();
+    }
+
+    
+    setInterval(atualizarHora, 1000);
+
+   
+    atualizarHora();
+</script>
