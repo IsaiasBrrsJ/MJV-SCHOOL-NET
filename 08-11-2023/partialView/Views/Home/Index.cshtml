@@ -1,0 +1,14 @@
+﻿@model Pessoa
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<form method="post" asp-action="Index" asp-controller="Home">
+    <input  name="nome" type="text"/>
+    <input name="sobrenome" type="text"/>
+    <input type="submit" value="enviar"/>
+    
+</form>
+<p>Pessoas e Poderes</p>
+<partial name="_poderesPessoa" model="@Model.Poderes"/>
