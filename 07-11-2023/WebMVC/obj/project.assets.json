@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\MJV DOTNET\\06-11-2023\\Serialização\\WebMVC\\WebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\MJV DOTNET\\07-11-2023\\WebMVC\\WebMVC.csproj",
       "projectName": "WebMVC",
-      "projectPath": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\MJV DOTNET\\06-11-2023\\Serialização\\WebMVC\\WebMVC.csproj",
+      "projectPath": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\MJV DOTNET\\07-11-2023\\WebMVC\\WebMVC.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\MJV DOTNET\\06-11-2023\\Serialização\\WebMVC\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\MJV DOTNET\\07-11-2023\\WebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

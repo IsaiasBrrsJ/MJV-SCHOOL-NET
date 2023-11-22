@@ -12,8 +12,8 @@ namespace Util
         public static string Serializar(Carro.Carro carro)
             => JsonSerializer.Serialize(carro);
 
-        public static Carro.Carro Deserialize(string carro) =>
-             JsonSerializer.Deserialize<Carro.Carro>(carro)!;
+        public static Carro.Carro Deserialize(string carro) 
+           => JsonSerializer.Deserialize<Carro.Carro>(carro)!;
         
     }
 }
